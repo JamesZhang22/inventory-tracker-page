@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inventory-tracker-page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/inventory-tracker-page/static/js/main.5552848d.chunk.js",
+    "main.js.map": "/inventory-tracker-page/static/js/main.5552848d.chunk.js.map",
+    "runtime-main.js": "/inventory-tracker-page/static/js/runtime-main.e458c268.js",
+    "runtime-main.js.map": "/inventory-tracker-page/static/js/runtime-main.e458c268.js.map",
+    "static/js/2.fc7d0e2d.chunk.js": "/inventory-tracker-page/static/js/2.fc7d0e2d.chunk.js",
+    "static/js/2.fc7d0e2d.chunk.js.map": "/inventory-tracker-page/static/js/2.fc7d0e2d.chunk.js.map",
+    "static/js/3.aef978db.chunk.js": "/inventory-tracker-page/static/js/3.aef978db.chunk.js",
+    "static/js/3.aef978db.chunk.js.map": "/inventory-tracker-page/static/js/3.aef978db.chunk.js.map",
+    "index.html": "/inventory-tracker-page/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/inventory-tracker-page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fc7d0e2d.chunk.js.LICENSE.txt": "/inventory-tracker-page/static/js/2.fc7d0e2d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/inventory-tracker-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e458c268.js",
+    "static/js/2.fc7d0e2d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5552848d.chunk.js"
+  ]
+}
